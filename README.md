@@ -11,6 +11,6 @@ Công ty thương mại điện tử "E-Com Global" đang đối mặt với tì
 + Xây dựng Product Backlog với các User Story tập trung vào tương tác của người dùng (ví dụ: "Là một khách hàng, tôi muốn hỏi về chính sách bảo hành và nhận được câu trả lời ngay lập tức...").
 + Lập kế hoạch chi tiết cho 2 Sprint đầu tiên, bao gồm các task như "Thu thập và chuẩn hóa dữ liệu FAQs", "Thiết kế luồng hội thoại", "Tích hợp API tra cứu đơn hàng".
 - Quản lý Chất lượng và Rủi ro AI:
-+ Kế hoạch Quản lý Chất lượng: Đề xuất quy trình "huấn luyện" (training) và kiểm thử chatbot, bao gồm các tiêu chí đo lường độ chính xác của câu trả lời và tỷ lệ chatbot hiểu sai ý người dùng.
-+ Kế hoạch Quản lý Rủi ro: Nhận diện các rủi ro đặc thù của dự án AI: dữ liệu huấn luyện không đủ tốt, chatbot trả lời sai gây ảnh hưởng uy tín, người dùng không hài lòng với trải nghiệm.
-- Thiết lập đo lường: Xác định các KPIs để đánh giá hiệu quả của dự án.
+Kế hoạch Quản lý Chất lượng: Đề xuất quy trình "huấn luyện" (training) và kiểm thử chatbot, bao gồm các tiêu chí đo lường độ chính xác của câu trả lời và tỷ lệ chatbot hiểu sai ý người dùng.
+Kế hoạch Quản lý Rủi ro: Nhận diện các rủi ro đặc thù của dự án AI: dữ liệu huấn luyện không đủ tốt, chatbot trả lời sai gây ảnh hưởng uy tín, người dùng không hài lòng với trải nghiệm.
+Thiết lập đo lường: Xác định các KPIs để đánh giá hiệu quả của dự án.
