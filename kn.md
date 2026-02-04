@@ -1,0 +1,230 @@
+### 1. Báo cáo và Phân tích Toàn diện Tiến độ Dự án
+
+Dự án đã hoàn thành **100%** theo baseline 12 tuần (6 Sprint × 2 tuần).
+Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
+
+#### 1.1. Tình trạng tổng thể & Dự báo hoàn thành (EVM)
+
+- BAC (Budget at Completion): 90 triệu VNĐ
+
+- EV (Earned Value): 90 triệu VNĐ (100%)
+
+- AC (Actual Cost): ≈79--80 triệu VNĐ (tiết kiệm \~10--11 triệu)
+
+- EAC (Estimate at Completion): ≈92--93 triệu VNĐ (vượt nhẹ 2--3%)
+
+- SPI trung bình toàn dự án: 0.92 (chậm nhẹ \~8%)
+
+- CPI trung bình: 1.07 (hiệu quả chi phí tốt)
+
+**Biểu đồ 1: So sánh BAC -- AC -- EAC (%)** (Mô tả: Cột xanh dương: BAC
+100% \| Cột xanh lá: AC ≈88% \| Cột cam: EAC ≈103%)
+
+![](./images/media/image1.png){width="6.102083333333334in"
+height="3.4569444444444444in"}
+
+**Nguyên nhân chính**:
+
+- Chậm tiến độ: Tích hợp OMS/CRM (Sprint 2), chờ feedback UAT (Sprint
+  4).
+
+- Tiết kiệm chi phí: Sử dụng Dialogflow tier miễn phí ban đầu, Reserved
+  Instances trên cloud, testing nội bộ.
+
+**Tác động kinh doanh dự kiến**:
+
+- Giảm 65--70% ticket FAQs đơn giản.
+
+- Thời gian phản hồi giảm từ 4--5 phút xuống \<2 giây.
+
+- Tiết kiệm tương đương 1.5--2 FTE CSKH trong 6 tháng đầu.
+
+#### 1.2. Dữ liệu EVM chi tiết theo Sprint & Biểu đồ S-Curve
+
+**Bảng 1: Dữ liệu EVM theo Sprint**
+
+  -----------------------------------------------------------------------------
+  **Sprint   **Thời     **Planned   **Earned   **Actual   **Ghi chú**
+  (Kỳ)**     gian       Value (PV)  Value (EV) Cost (AC)  
+             (Tuần)**   %**         %**        %**        
+  ---------- ---------- ----------- ---------- ---------- ---------------------
+  0          Bắt đầu    0           0          0          Điểm khởi đầu
+
+  1          Tuần 1--2  15          14         13         Giai đoạn Chuẩn bị
+                                                          (thu thập dữ liệu)
+
+  2          Tuần 3--4  30          25         27         Bắt đầu Sprint 1
+
+  3          Tuần 5--6  50          45         42         Sprint 1: Phân tích &
+                                                          Thiết kế (FAQs, luồng
+                                                          hội thoại)
+
+  4          Tuần 7--8  70          65         60         Sprint 2: Phát triển
+                                                          Core (Dialogflow,
+                                                          API)
+
+  5          Tuần 9--10 85          78         72         Tích hợp API chậm, dữ
+                                                          liệu trùng lặp
+
+  6          Tuần       100         92         88         Thời điểm báo cáo:
+             11--12                                       Chậm nhẹ, chi phí tốt
+             (hiện tại)                                   
+  -----------------------------------------------------------------------------
+
+**Biểu đồ 2: S-Curve EVM - Tiến độ Dự án SupportBot** (Mô tả: Đường nét
+đứt xanh dương: PV % \| Đường liền xanh lá: EV % \| Đường liền đỏ: AC %)
+
+![](./images/media/image2.png){width="6.098611111111111in"
+height="2.3180555555555555in"}
+
+**Phân tích từ S-Curve**:
+
+- Chậm rõ nhất ở Sprint 5 (Tuần 9--10): EV chỉ 78% so với PV 85% → do
+  tích hợp API phức tạp và dữ liệu trùng lặp.
+
+- AC luôn thấp hơn EV → hiệu quả chi phí duy trì tốt suốt dự án.
+
+- Dự báo: ETC còn ≈8% giá trị → hoàn thành trong 1--2 tuần tới nếu không
+  phát sinh.
+
+#### 1.2. KPIs chính đạt được (sau UAT & beta test)
+
+- Độ chính xác tổng thể: 93.5% (1.200+ test queries)
+
+- Tỷ lệ chuyển tiếp nhân viên: 12% (\<20%)
+
+- Thời gian phản hồi trung bình: 1.4 giây
+
+- CSAT (60 người dùng): 4.1/5
+
+- Bug rate: 1.2%
+
+**Biểu đồ 2: CPI & SPI theo thời gian (6 Sprint)** (Đường xanh dương:
+SPI dao động 0.90--0.95 \| Đường đỏ: CPI 1.05--1.08)
+
+![](./images/media/image3.png){width="6.097916666666666in"
+height="2.8465277777777778in"}
+
+### 2. Quản lý Thay đổi và Xử lý Vấn đề Phát sinh
+
+Tổng cộng **7 Change Request** được phê duyệt, không có thay đổi lớn phá
+vỡ baseline.
+
+#### 2.1. Phân tích tác động của thay đổi
+
+- Tiến độ: 60%
+
+- Phạm vi: 30%
+
+- Chi phí: 10%
+
+**Biểu đồ 3: Phân tích tác động của thay đổi dự án** (Biểu đồ tròn: Tiến
+độ 60% -- Phạm vi 30% -- Chi phí 10%)
+
+![](./images/media/image4.png){width="6.097222222222222in"
+height="3.3826388888888888in"}
+
+#### 2.2. Quy trình quản lý thay đổi thực tế
+
+1.  Điền Change Request Form trên Trello/Jira.
+
+2.  Đánh giá Impact trong 24h (PM + Tech Lead).
+
+3.  Phê duyệt: PO (nhỏ) / Steering Committee (lớn).
+
+4.  Cập nhật Backlog → Sprint Planning → Gantt.
+
+5.  Theo dõi trong Review & Retrospective.
+
+**Ví dụ thay đổi nổi bật**:
+
+- CRF-004: Thêm intent "Bảo hành mở rộng" → +2 ngày, +1.5 triệu.
+
+- CRF-007: Retraining dữ liệu tháng 2 → Tăng accuracy từ 91% lên 93.5%.
+
+### 3. Hoàn thiện Kế hoạch Quản lý Chất lượng & Kiểm thử
+
+#### 3.1. Phân bổ các loại kiểm thử
+
+- Functional / Conversation Test: 40%
+
+- API Integration Test: 20%
+
+- Performance Test: 15%
+
+- Security Test: 15%
+
+- Usability Test & UAT: 10%
+
+**Biểu đồ 4: Phân bổ các loại kiểm thử trong dự án Chatbot AI** (Biểu đồ
+tròn với màu sắc phân biệt 5 loại test)
+
+![](./images/media/image5.png){width="6.1in"
+height="3.5104166666666665in"}
+
+#### 3.2. Kết quả Test Case mẫu (chức năng cốt lõi)
+
+- Tra cứu đơn hàng: 90% pass -- 10% fail
+
+- Chính sách đổi trả: 95% pass -- 5% fail
+
+- Bảo hành sản phẩm: 92% pass -- 8% fail
+
+**Biểu đồ 5: Kết quả Test Case mẫu (%)** (Cột đôi: Thành công xanh --
+Thất bại đỏ cho 3 chức năng)
+
+![](./images/media/image6.png){width="6.097222222222222in"
+height="3.4208333333333334in"}6+958
+
+#### 3.3. Đánh giá từ người dùng thực tế (UAT + beta)
+
+- Độ chính xác: 9.0/10
+
+- Tốc độ phản hồi: 8.0/10
+
+- Mức độ hài lòng tổng thể: 8.0/10
+
+**Biểu đồ 6: Điểm đánh giá** (Cột: Độ chính xác 9.0 -- Tốc độ 8.0 -- Hài
+lòng 8.0)
+
+![](./images/media/image7.png){width="6.097222222222222in"
+height="3.4625in"}
+
+**Kết luận UAT**: Đạt tiêu chí chấp nhận → Phê duyệt triển khai
+Production từ tuần 13.
+
+#### 3.4. Bài học kinh nghiệm từ kiểm thử
+
+- Dữ liệu huấn luyện thực tế (chat log) quan trọng hơn dữ liệu tổng
+  quát.
+
+- Conversation test cần script đa dạng (typo, câu hỏi vòng vo).
+
+- UAT cần ít nhất 2 vòng: nhân viên CSKH → khách hàng thật.
+
+- Security test nên làm sớm (Sprint 3--4) để tránh rework.
+
+### 4. Kết luận & Đề xuất sau bàn giao
+
+Dự án thành công về mặt kỹ thuật và giá trị kinh doanh: giảm tải đáng kể
+cho bộ phận CSKH, cải thiện trải nghiệm khách hàng.
+
+**Đề xuất vận hành dài hạn**:
+
+1.  Thiết lập Monitoring Dashboard realtime (accuracy, fallback rate,
+    CSAT).
+
+2.  Lập lịch Retraining AI hàng quý dựa trên chat log mới.
+
+3.  Mở rộng đa ngôn ngữ (Anh -- Trung) trong giai đoạn 2 nếu khách quốc
+    tế tăng \>20%.
+
+4.  Tổ chức Retrospective kiểu vận hành hàng quý với đội CSKH.
+
+**Phụ lục (nếu cần thêm)**:
+
+- Risk Register cập nhật cuối dự án
+
+- Retrospective Sprint 6
+
+- Link Trello/Jira/MS Project (nếu public)
