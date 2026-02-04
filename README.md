@@ -1,8 +1,12 @@
 Lập Kế hoạch Tích hợp Chatbot AI "SupportBot" vào Website Chăm sóc Khách hàng của công ty "E-Com Global".
+
+
 1. Mô tả:
 
 Công ty thương mại điện tử "E-Com Global" đang đối mặt với tình trạng quá tải ở bộ phận chăm sóc khách hàng. Nhóm sinh viên được giao nhiệm vụ quản lý dự án tích hợp một chatbot AI lên website, có khả năng trả lời tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả, tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ trợ.
+
 2. Nhiệm vụ:
+
 - Phân tích yêu cầu & Lựa chọn nền tảng:
 + Phân tích các loại câu hỏi thường gặp từ dữ liệu lịch sử chat và email.
 + Xác định các kịch bản hội thoại chính mà chatbot cần xử lý.
