@@ -17,10 +17,6 @@ Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
 
 - CPI trung bình: 1.07 (hiệu quả chi phí tốt)
 
-**Biểu đồ 1: So sánh BAC -- AC -- EAC (%)** (Mô tả: Cột xanh dương: BAC
-100% \| Cột xanh lá: AC ≈88% \| Cột cam: EAC ≈103%)
-
-![](./images/media/image1.png){width="6.102083333333334in" height="3.4569444444444444in"}
 
 **Nguyên nhân chính**:
 
@@ -70,11 +66,6 @@ Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
              (hiện tại)                                   
   -----------------------------------------------------------------------------
 
-**Biểu đồ 2: S-Curve EVM - Tiến độ Dự án SupportBot** (Mô tả: Đường nét
-đứt xanh dương: PV % \| Đường liền xanh lá: EV % \| Đường liền đỏ: AC %)
-
-![](./images/media/image2.png){width="6.098611111111111in"
-height="2.3180555555555555in"}
 
 **Phân tích từ S-Curve**:
 
@@ -98,11 +89,6 @@ height="2.3180555555555555in"}
 
 - Bug rate: 1.2%
 
-**Biểu đồ 2: CPI & SPI theo thời gian (6 Sprint)** (Đường xanh dương:
-SPI dao động 0.90--0.95 \| Đường đỏ: CPI 1.05--1.08)
-
-![](./images/media/image3.png){width="6.097916666666666in"
-height="2.8465277777777778in"}
 
 ### 2. Quản lý Thay đổi và Xử lý Vấn đề Phát sinh
 
@@ -117,11 +103,6 @@ vỡ baseline.
 
 - Chi phí: 10%
 
-**Biểu đồ 3: Phân tích tác động của thay đổi dự án** (Biểu đồ tròn: Tiến
-độ 60% -- Phạm vi 30% -- Chi phí 10%)
-
-![](./images/media/image4.png){width="6.097222222222222in"
-height="3.3826388888888888in"}
 
 #### 2.2. Quy trình quản lý thay đổi thực tế
 
@@ -155,11 +136,6 @@ height="3.3826388888888888in"}
 
 - Usability Test & UAT: 10%
 
-**Biểu đồ 4: Phân bổ các loại kiểm thử trong dự án Chatbot AI** (Biểu đồ
-tròn với màu sắc phân biệt 5 loại test)
-
-![](./images/media/image5.png){width="6.1in"
-height="3.5104166666666665in"}
 
 #### 3.2. Kết quả Test Case mẫu (chức năng cốt lõi)
 
@@ -169,11 +145,6 @@ height="3.5104166666666665in"}
 
 - Bảo hành sản phẩm: 92% pass -- 8% fail
 
-**Biểu đồ 5: Kết quả Test Case mẫu (%)** (Cột đôi: Thành công xanh --
-Thất bại đỏ cho 3 chức năng)
-
-![](./images/media/image6.png){width="6.097222222222222in"
-height="3.4208333333333334in"}6+958
 
 #### 3.3. Đánh giá từ người dùng thực tế (UAT + beta)
 
@@ -183,14 +154,6 @@ height="3.4208333333333334in"}6+958
 
 - Mức độ hài lòng tổng thể: 8.0/10
 
-**Biểu đồ 6: Điểm đánh giá** (Cột: Độ chính xác 9.0 -- Tốc độ 8.0 -- Hài
-lòng 8.0)
-
-![](./images/media/image7.png){width="6.097222222222222in"
-height="3.4625in"}
-
-**Kết luận UAT**: Đạt tiêu chí chấp nhận → Phê duyệt triển khai
-Production từ tuần 13.
 
 #### 3.4. Bài học kinh nghiệm từ kiểm thử
 
@@ -220,11 +183,4 @@ cho bộ phận CSKH, cải thiện trải nghiệm khách hàng.
 
 4.  Tổ chức Retrospective kiểu vận hành hàng quý với đội CSKH.
 
-**Phụ lục (nếu cần thêm)**:
-
-- Risk Register cập nhật cuối dự án
-
-- Retrospective Sprint 6
-
-- Link Trello/Jira/MS Project (nếu public)
 
