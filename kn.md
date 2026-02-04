@@ -20,7 +20,8 @@ Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
 **Biểu đồ 1: So sánh BAC -- AC -- EAC (%)** (Mô tả: Cột xanh dương: BAC
 100% \| Cột xanh lá: AC ≈88% \| Cột cam: EAC ≈103%)
 
-![](./images/media/image1.png.)
+![](./images/media/image1.png){width="6.102083333333334in"
+height="3.4569444444444444in"}
 
 **Nguyên nhân chính**:
 
@@ -39,6 +40,36 @@ Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
 - Tiết kiệm tương đương 1.5--2 FTE CSKH trong 6 tháng đầu.
 
 #### 1.2. Dữ liệu EVM chi tiết theo Sprint & Biểu đồ S-Curve
+
+**Bảng 1: Dữ liệu EVM theo Sprint**
+
+  -----------------------------------------------------------------------------
+  **Sprint   **Thời     **Planned   **Earned   **Actual   **Ghi chú**
+  (Kỳ)**     gian       Value (PV)  Value (EV) Cost (AC)  
+             (Tuần)**   %**         %**        %**        
+  ---------- ---------- ----------- ---------- ---------- ---------------------
+  0          Bắt đầu    0           0          0          Điểm khởi đầu
+
+  1          Tuần 1--2  15          14         13         Giai đoạn Chuẩn bị
+                                                          (thu thập dữ liệu)
+
+  2          Tuần 3--4  30          25         27         Bắt đầu Sprint 1
+
+  3          Tuần 5--6  50          45         42         Sprint 1: Phân tích &
+                                                          Thiết kế (FAQs, luồng
+                                                          hội thoại)
+
+  4          Tuần 7--8  70          65         60         Sprint 2: Phát triển
+                                                          Core (Dialogflow,
+                                                          API)
+
+  5          Tuần 9--10 85          78         72         Tích hợp API chậm, dữ
+                                                          liệu trùng lặp
+
+  6          Tuần       100         92         88         Thời điểm báo cáo:
+             11--12                                       Chậm nhẹ, chi phí tốt
+             (hiện tại)                                   
+  -----------------------------------------------------------------------------
 
 **Biểu đồ 2: S-Curve EVM - Tiến độ Dự án SupportBot** (Mô tả: Đường nét
 đứt xanh dương: PV % \| Đường liền xanh lá: EV % \| Đường liền đỏ: AC %)
@@ -197,6 +228,3 @@ cho bộ phận CSKH, cải thiện trải nghiệm khách hàng.
 - Retrospective Sprint 6
 
 - Link Trello/Jira/MS Project (nếu public)
-
-
-
