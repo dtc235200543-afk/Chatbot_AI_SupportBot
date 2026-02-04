@@ -20,7 +20,7 @@ Phân tích dựa trên Earned Value Management (EVM) và KPIs thực tế.
 **Biểu đồ 1: So sánh BAC -- AC -- EAC (%)** (Mô tả: Cột xanh dương: BAC
 100% \| Cột xanh lá: AC ≈88% \| Cột cam: EAC ≈103%)
 
-(./images/media/image1.png.)
+![](./images/media/image1.png.)
 
 **Nguyên nhân chính**:
 
@@ -197,5 +197,6 @@ cho bộ phận CSKH, cải thiện trải nghiệm khách hàng.
 - Retrospective Sprint 6
 
 - Link Trello/Jira/MS Project (nếu public)
+
 
 
