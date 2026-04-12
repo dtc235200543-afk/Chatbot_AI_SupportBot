@@ -204,6 +204,7 @@ Tổng chi phí dự án ước tính khoảng 154.400.000 VND (chưa bao gồm
 thưởng), phù hợp với ngân sách của một dự án chatbot quy mô vừa, có khả
 năng mở rộng và duy trì sau khi bàn giao.
 
-![**Hình 6: Biểu đồ so sánh chi phí dự kiến và thực tế dự án
-SupportBot**](media/image1.png){width="5.7625in"
-height="3.7180555555555554in"}
+![](./image/Hình6.png)
+
+**Hình 6: Biểu đồ so sánh chi phí dự kiến và thực tế dự án
+SupportBot**
