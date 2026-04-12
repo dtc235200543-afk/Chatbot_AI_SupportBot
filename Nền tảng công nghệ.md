@@ -49,8 +49,8 @@ Nhóm đưa ra 5 tiêu chí để so sánh các nền tảng chatbot phổ biế
   trọng số)**                                              
   --------------------------------------------------------------------------
 
-![**Hình 2: So sánh các nền tảng chatbot theo các tiêu chí đánh
-giá**](images/Hình2.png)
+**Hình 2: So sánh các nền tảng chatbot theo các tiêu chí đánh giá**
+![](imageas/Hình2.png)
 
 ### 2.2.3. Quyết định lựa chọn
 
