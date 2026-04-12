@@ -44,9 +44,9 @@ Phân tích chi tiết
 
 - Đây là cơ sở quan trọng chứng minh tính khả thi của chatbot
 
-![**Hình 1: Biểu đồ phân bố các nhóm câu hỏi thường gặp
-(FAQs)**](media/image1.png){width="5.7659722222222225in"
-height="3.1416666666666666in"}
+**Hình 1: Biểu đồ phân bố các nhóm câu hỏi thường gặp
+(FAQs)**
+![](./images/Hình1.png)
 
 ### 2.1.2. Phân loại câu hỏi thường gặp (FAQs)
 
@@ -103,7 +103,7 @@ SupportBot cần xử lý:
 
 ### 2.1.4. Yêu cầu hệ thống
 
-[Yêu cầu chức năng]{.underline}
+Yêu cầu chức năng
 
 - Hệ thống chatbot cần đáp ứng các chức năng sau:
 
@@ -119,7 +119,7 @@ SupportBot cần xử lý:
 
 - Hỗ trợ hội thoại liên tục nhiều lượt
 
-[Yêu cầu phi chức năng]{.underline}
+Yêu cầu phi chức năng
 
 - Hiệu năng: thời gian phản hồi \< 3 giây
 
@@ -133,7 +133,7 @@ SupportBot cần xử lý:
 
 - Quản trị: cung cấp dashboard theo dõi
 
-[Yêu cầu bổ sung (sau khi làm việc với khách hàng)]{.underline}
+Yêu cầu bổ sung (sau khi làm việc với khách hàng)
 
 - Gợi ý sản phẩm: Sau khi tra cứu đơn hàng, chatbot có thể gợi ý sản
   phẩm liên quan dựa trên lịch sử mua.
