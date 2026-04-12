@@ -64,7 +64,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 **1.5.1. Khởi tạo dự án**
 
-[Vai trò Người đảm nhận]{.underline}
+[Vai trò Người đảm nhận]
 
 - Người xét duyệt Bùi Đức Sang
 
@@ -72,7 +72,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 - Người tham gia đóng góp Phạm Thị Ngọc
 
-[Danh sách công việc]{.underline}
+[Danh sách công việc]
 
 5.1.1. Gặp và trao đổi với khách hàng E-Com Global để thu thập yêu cầu về hệ thống chatbot SupportBot.
 
