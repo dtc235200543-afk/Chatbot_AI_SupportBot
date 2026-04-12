@@ -2,7 +2,7 @@
 
 ### 1.6.1. Khởi tạo dự án
 
-Vai trò Người đảm nhận
+**Vai trò Người đảm nhận**
 
 - Người xét duyệt Bùi Đức Sang
 
@@ -10,7 +10,7 @@ Vai trò Người đảm nhận
 
 - Người tham gia đóng góp Phạm Thị Ngọc
 
-Danh sách công việc
+**Danh sách công việc**
 
 > 5.1.1. Gặp và trao đổi với khách hàng E-Com Global để thu thập yêu cầu
 > về hệ thống chatbot SupportBot.
@@ -26,7 +26,7 @@ Danh sách công việc
 
 ### 1.6.2. Phân tích yêu cầu
 
-[Vai trò Người đảm nhận]{.underline}
+Vai trò Người đảm nhận
 
 - Người xét duyệt Bùi Đức Sang
 
