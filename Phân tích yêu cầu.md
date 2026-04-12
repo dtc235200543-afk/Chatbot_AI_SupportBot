@@ -38,7 +38,7 @@ Phân tích chi tiết
 - Nhóm sản phẩm (25%) chủ yếu mang tính tra cứu thông tin, dễ tự động
   hóa.
 
-[Kết luận:]{.underline}
+Kết luận:
 
 - Khoảng 70% câu hỏi có thể xử lý hoàn toàn tự động
 
@@ -77,30 +77,6 @@ nhóm chính:
 
 Dựa trên kết quả phân tích, nhóm xác định 4 kịch bản hội thoại mà
 SupportBot cần xử lý:
-
-  -----------------------------------------------------------------------
-  **Kịch bản**    **Mô tả**                         **Điều kiện kích
-                                                    hoạt**
-  --------------- --------------------------------- ---------------------
-  **Kịch bản      Chatbot trả lời ngay các câu hỏi  Câu hỏi chứa từ khóa
-  1:** Hỏi -- Đáp về chính sách, sản phẩm mà không  \"bảo hành\", \"đổi
-  tức thì         cần xác thực                      trả\", \"giá\",
-                                                    \"thông số\"
-
-  **Kịch bản      Chatbot yêu cầu khách cung cấp mã Câu hỏi chứa \"đơn
-  2:** Tra cứu    đơn hàng + email/SĐT, sau đó gọi  hàng\", \"ship\",
-  đơn hàng        API để trả về trạng thái          \"giao hàng\", \"vận
-                                                    chuyển\"
-
-  **Kịch bản      Khi chatbot không hiểu câu hỏi    Fallback (độ tin cậy
-  3:** Chuyển     hoặc khách hàng yêu cầu gặp người \< 0.7) hoặc khách
-  tiếp nhân viên  thật, hệ thống sẽ chuyển sang     nhập \"gặp nhân
-                  nhân viên CSKH                    viên\"
-
-  **Kịch bản      Sau khi kết thúc hội thoại (có    Kết thúc mỗi lượt
-  4:** Thu thập   hoặc không chuyển nhân viên),     chat
-  phản hồi        chatbot hỏi đánh giá sao          
-  -----------------------------------------------------------------------
 
 ### 2.1.4. Yêu cầu hệ thống
 
