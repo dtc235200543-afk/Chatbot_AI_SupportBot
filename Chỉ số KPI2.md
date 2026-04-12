@@ -84,7 +84,7 @@ Tại thời điểm kết thúc Sprint 1, các thông số được xác địn
 
 - EV (Earned Value):\
   **Tiến độ thực tế:** 85% khối lượng công việc của Sprint 1
-  ![](media/Bảng1.4.png){width="4.781917104111986in"
+  ![](/Bảng1.4.png){width="4.781917104111986in"
   height="0.6667596237970254in"}\
   → **EV = 85% × 45 = 38,25 triệu VNĐ**
 
