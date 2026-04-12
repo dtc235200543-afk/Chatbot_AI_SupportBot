@@ -57,17 +57,11 @@ ngày -- giúp đảm bảo sản phẩm đáp ứng đúng nhu cầu thực t�
 
 **Test Case TC-03: Kiểm tra xử lý lỗi API**
 
-  -------------------------------------------------------------------------
-  Bước   Hành động của người dùng    Phản hồi mong đợi từ chatbot  Kết quả
-  ------ --------------------------- ----------------------------- --------
-  1      User nhập: \"Kiểm tra đơn   Bot hỏi số điện thoại         Pass
-         hàng #12345\"                                             
-
-  2      User nhập: \"0987654321\"   API timeout (giả lập)         Pass
-
-  3      Bot phản hồi                \"Hệ thống đang bận, vui lòng Pass
-                                     thử lại sau ít phút\"         
-  -------------------------------------------------------------------------
+ | Bước |  Hành động của người dùng |   Phản hồi mong đợi từ chatbot |  Kết quả
+| ------ | --------------------------- | -----------------------------| --------
+  | 1    |  User nhập: \"Kiểm tra đơn hàng #12345\"  |    Bot hỏi số điện thoại   |      Pass    |                                     
+  | 2    |  User nhập: \"0987654321\"  | API timeout (giả lập)     |    Pass |
+  | 3    |  Bot phản hồi       |        \"Hệ thống đang bận, vui lòng thử lại sau ít phút\" |  Pass |
 
 Các kịch bản kiểm thử được xây dựng bao gồm cả trường hợp thành công
 (happy path) và trường hợp thất bại (error path), giúp đánh giá toàn
