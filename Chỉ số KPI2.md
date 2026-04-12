@@ -78,8 +78,8 @@ Tại thời điểm kết thúc Sprint 1, các thông số được xác địn
 - BAC (Budget at Completion): Tổng ngân sách dự án = 45 triệu VNĐ
 
 - PV (Planned Value):\
-  **Tiến độ theo kế hoạch:** 100% khối lượng công việc của Sprint 1\
-  ![](Bảng1.4.png)\
+  **Tiến độ theo kế hoạch:** 100% khối lượng công việc của Sprint 1
+  ![](Bảng1.4.png)
   → **PV = 100% × 45 = 45 triệu VNĐ**
 
 - EV (Earned Value):\
