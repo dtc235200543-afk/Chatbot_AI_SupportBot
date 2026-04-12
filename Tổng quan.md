@@ -64,7 +64,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 **1.5.1. Khởi tạo dự án**
 
-[Vai trò Người đảm nhận]
+**Vai trò Người đảm nhận**
 
 - Người xét duyệt Bùi Đức Sang
 
@@ -72,7 +72,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 - Người tham gia đóng góp Phạm Thị Ngọc
 
-[Danh sách công việc]
+**Danh sách công việc**
 
 5.1.1. Gặp và trao đổi với khách hàng E-Com Global để thu thập yêu cầu về hệ thống chatbot SupportBot.
 
@@ -82,9 +82,9 @@ Nền tảng AI: Google Dialogflow CX.
 
 5.1.4. Nghiên cứu và đề xuất nền tảng phát triển chatbot, lựa chọn Dialogflow CX.
 
-1.5.2. Phân tích yêu cầu
+**1.5.2. Phân tích yêu cầu**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -92,7 +92,7 @@ Người thực hiện Lê Đức Mạnh, Nguyễn Thị Thúy Nga, Đỗ Anh Đ
 
 Người tham gia đóng góp Phạm Thị Ngọc
 
-[Danh sách công việc]{.underline}
+**Danh sách công việc**
 
 5.2.1. Phân tích yêu cầu nghiệp vụ (FAQs, tra cứu đơn hàng, thông tin sản phẩm) và yêu cầu hệ thống (tích hợp API, lưu lịch sử hội thoại).
 
@@ -104,9 +104,9 @@ Người tham gia đóng góp Phạm Thị Ngọc
 
 5.2.5. Xây dựng WBS chi tiết cho toàn bộ dự án.
 
-1.5.3. Thiết kế hệ thống
+**1.5.3. Thiết kế hệ thống**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -114,7 +114,7 @@ Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
 
 Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
-[Danh sách công việc]{.underline}
+**Danh sách công việc**
 
 5.3.1. Thiết kế kiến trúc tổng thể hệ thống chatbot.
 
@@ -126,9 +126,9 @@ Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
 5.3.5. Thiết kế giao diện: Giao diện chatbot (chat widget), Dashboard quản trị cho nhân viên CSKH
 
-1.5.4. Xây dựng hệ thống Chatbot
+**1.5.4. Xây dựng hệ thống Chatbot**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -136,7 +136,7 @@ Người thực hiện Lê Đức Mạnh, Phạm Thị Ngọc, Nguyễn Thị Th
 
 Người tham gia đóng góp Đỗ Anh Đức
 
-[Danh sách công việc]{.underline}
+**Danh sách công việc**
 
 5.4.1. Xây dựng cơ sở dữ liệu phục vụ chatbot (MySQL).
 
@@ -156,9 +156,9 @@ Sprint 3: Thông tin sản phẩm
 
 Sprint 4: Chuyển tiếp nhân viên & tối ưu hệ thống
 
-1.5.5. Chạy thử hệ thống
+**1.5.5. Chạy thử hệ thống**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -166,8 +166,7 @@ Người thực hiện Nguyễn Thị Thúy Nga, Lê Đức Mạnh
 
 Người tham gia đóng góp Phạm Thị Ngọc
 
-[Danh sách công việc]{.underline}
-
+**Danh sách công việc**
 5.5.1. Xây dựng test case cho từng chức năng chatbot.
 
 5.5.2. Kiểm tra hệ thống:
@@ -180,9 +179,9 @@ Thời gian phản hồi
 
 5.5.3. Ghi nhận lỗi và đề xuất phương án cải thiện.
 
-1.5.6. Kiểm thử hệ thống
+**1.5.6. Kiểm thử hệ thống**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -190,7 +189,7 @@ Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
 
 Người tham gia đóng góp Nguyễn Thị Thúy Nga
 
-[Danh sách công việc]{.underline}
+**Danh sách công việc**
 
 5.6.1. Triển khai hệ thống lên môi trường thực tế (server/VPS).
 
@@ -204,9 +203,9 @@ Chat → Dialogflow → Webhook → Database → API
 
 5.6.5. Lập báo cáo kiểm thử chi tiết.
 
-1.5.7. Kết thúc dự án
+**1.5.7. Kết thúc dự án**
 
-[Vai trò Người đảm nhận]{.underline}
+**Vai trò Người đảm nhận**
 
 Người xét duyệt Bùi Đức Sang
 
@@ -214,7 +213,7 @@ Người thẩm định Bùi Đức Sang, Phạm Thị Ngọc
 
 Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức, Nguyễn Thị Thúy Nga
 
-[Danh sách công việc]{.underline}
+**Danh sách công việc**
 
 5.7.1. Xây dựng tài liệu hoàn chỉnh:
 
