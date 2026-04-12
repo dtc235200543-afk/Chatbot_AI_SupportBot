@@ -2,7 +2,7 @@
 
 **1.1. Tổng quan**
 
-  Tên dự án: Lập Kế hoạch Tích hợp Chatbot AI \"SupportBot\" vào Website Chăm sóc Khách hàng của công ty \"E-Com Global\".
+    Tên dự án: Lập Kế hoạch Tích hợp Chatbot AI \"SupportBot\" vào Website Chăm sóc Khách hàng của công ty \"E-Com Global\".
 
   Mục đích dự án: Dự án được xây dựng dưới yêu cầu của công ty thương mại điện tử E-Com Global với mục đích nhằm tự động hóa hoạt động chăm sóc khách hàng, giảm tải cho bộ phận CSKH, trả lời tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả, tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ trợ, đồng thời nâng cao trải nghiệm mua sắm trực tuyến của khách hàng.
 
