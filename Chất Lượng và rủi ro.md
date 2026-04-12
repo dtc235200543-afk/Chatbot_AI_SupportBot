@@ -25,14 +25,8 @@ Mục tiêu độ chính xác 85% là hoàn toàn khả thi dựa trên các ngh
 
   |Loại kiểm thử |  Mục đích   |   Thời điểm thực hiện  | Người thực hiện | Tiêu chí đạt
   |--------------|-------------|------------------------|---------------- |---------------
- | **Unit Test** |  Kiểm tra từng       Trong khi   Kỹ sư AI    Không lỗi cú
-                  Intent/Entity hoạt  phát triển              pháp, Intent
-                  động đúng                                   kích hoạt đúng
-
-  **Integration   Kiểm tra webhook    Cuối mỗi    Tester      Gọi API thành
-  Test**          kết nối được với    Sprint                  công, xử lý
-                  API                                         đúng response
-
+ | **Unit Test** |  Kiểm tra từng Intent/Entity hoạt động đúng   |  Trong khi phát triển |  Kỹ sư AI  |  Không lỗi cú pháp, Intent kích hoạt đúng |
+ |**Integration Test** |  Kiểm tra webhook kết nối được với API |   Cuối mỗi Sprint |  Tester |     Gọi API thành công, xử lý  đúng response |
   **Accuracy      Đo độ chính xác của Cuối mỗi    Tester      Độ chính xác ≥
   Test**          chatbot             Sprint                  85%
 
