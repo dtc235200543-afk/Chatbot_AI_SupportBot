@@ -99,8 +99,7 @@ mật dữ liệu khách hàng (R08) luôn hiện hữu.
 | R07 |	Tích hợp API ticket thất bại |	Kỹ thuật |	16 |	Cao |
 | R08 |	Bảo mật dữ liệu |	Bảo mật |	12 |	Trung bình |
 
-
-  : **Bảng 1: Danh sách rủi ro và mức độ ưu tiên**
+**Bảng 1: Danh sách rủi ro và mức độ ưu tiên**
 
 Như vậy, 5/8 rủi ro (62.5%) ở mức độ cao, cho thấy dự án có nhiều yếu tố
 bất định, đặc biệt liên quan đến chất lượng dữ liệu và sự phụ thuộc vào
@@ -129,21 +128,15 @@ trải nghiệm mượt mà. CSAT (≥4.0/5) đo sự hài lòng của khách h�
 chuyển tiếp (\<30%) cho biết bot xử lý được bao nhiêu. Chi phí mỗi hội
 thoại (\<1.000 VND) đảm bảo hiệu quả kinh tế.
 
-  -----------------------------------------------------------------------
-  KPI                        Công thức                      Mục tiêu
-  -------------------------- ------------------------------ -------------
-  Tỷ lệ giải quyết tự động   Bot tự xử lý / Tổng số         ≥ 70%
+  | KPI           |             Công thức            |          Mục tiêu |
+ | -------------------------- | ------------------------------ | -------------|
+  | Tỷ lệ giải quyết tự động |	Bot tự xử lý / Tổng số |	≥ 70% |
+| Độ chính xác |	Số đúng / Tổng số |	≥ 85% |
+| Tỷ lệ hiểu sai |	Fallback / Tổng số |	< 15% |
+| Thời gian phản hồi TB |	Tổng thời gian / Số câu |	< 5 giây |
+| CSAT |	Trung bình điểm đánh giá |	≥ 4.0/5 |
 
-  Độ chính xác               Số đúng / Tổng số              ≥ 85%
-
-  Tỷ lệ hiểu sai             Fallback / Tổng số             \< 15%
-
-  Thời gian phản hồi TB      Tổng thời gian / Số câu        \< 5 giây
-
-  CSAT                       Trung bình điểm đánh giá       ≥ 4.0/5
-  -----------------------------------------------------------------------
-
-  : **Bảng 2: Các KPI của dự án**
+   **Bảng 2: Các KPI của dự án**
 
 ## 5.5. Nhận xét chung
 
