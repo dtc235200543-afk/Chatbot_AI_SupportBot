@@ -44,9 +44,8 @@ Phân tích chi tiết
 
 - Đây là cơ sở quan trọng chứng minh tính khả thi của chatbot
 
-**Hình 1: Biểu đồ phân bố các nhóm câu hỏi thường gặp
-(FAQs)**
-![](./images/Hình1.png)
+![**Hình 1: Biểu đồ phân bố các nhóm câu hỏi thường gặp
+(FAQs)**](./images/Hình1.png)
 
 ### 2.1.2. Phân loại câu hỏi thường gặp (FAQs)
 
