@@ -32,20 +32,6 @@ Mục tiêu độ chính xác 85% là hoàn toàn khả thi dựa trên các ngh
  | **Load Test** | Kiểm tra khả năng chịu tải | Sprint 5 | Tester | Xử lý 500 người dùng đồng thời | 
 |**Regression Test** | Đảm bảo tính năng cũ không bị ảnh hưởng | Trước mỗi release | Tester | 100% tính năng cũ hoạt động bình thường | 
 
-  **Accuracy      Đo độ chính xác của Cuối mỗi    Tester      Độ chính xác ≥
-  Test**          chatbot             Sprint                  85%
-
-  **UAT (User     Kiểm tra bởi người  Cuối Sprint 5 nhân viên Tỷ lệ hài lòng
-  Test)**         dùng thực tế        4           CSKH        ≥ 80%
-
-  **Load Test**   Kiểm tra khả năng   Sprint 5    Tester      Xử lý 500 người
-                  chịu tải                                    dùng đồng thời
-
-  **Regression    Đảm bảo tính năng   Trước mỗi   Tester      100% tính năng
-  Test**          cũ không bị ảnh     release                 cũ hoạt động
-                  hưởng                                       bình thường
-  ---------------------------------------------------------------------------
-
 **Nhận xét:** Việc kết hợp nhiều loại hình kiểm thử khác nhau giúp phát
 hiện sớm các lỗi tiềm ẩn ở từng cấp độ. Đặc biệt, UAT có sự tham gia
 trực tiếp của 5 nhân viên CSKH -- những người sẽ sử dụng chatbot hàng
