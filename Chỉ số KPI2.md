@@ -79,7 +79,7 @@ Tại thời điểm kết thúc Sprint 1, các thông số được xác địn
 
 - PV (Planned Value):\
   **Tiến độ theo kế hoạch:** 100% khối lượng công việc của Sprint 1\
-  ![](Bảng1.4.png)
+  ![](Bảng1.4.png)\
   → **PV = 100% × 45 = 45 triệu VNĐ**
 
 - EV (Earned Value):\
