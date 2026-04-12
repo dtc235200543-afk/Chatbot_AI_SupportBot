@@ -2,34 +2,27 @@
 
 **1.1. Tổng quan**
 
-    Tên dự án: Lập Kế hoạch Tích hợp Chatbot AI \"SupportBot\" vào Website Chăm sóc Khách hàng của công ty \"E-Com Global\".
+Tên dự án: Lập Kế hoạch Tích hợp Chatbot AI \"SupportBot\" vào Website Chăm sóc Khách hàng của công ty \"E-Com Global\".
 
-    Mục đích dự án: Dự án được xây dựng dưới yêu cầu của công ty thương mại điện tử E-Com Global với mục đích nhằm tự động hóa hoạt động chăm sóc khách hàng, giảm tải cho bộ phận CSKH, trả lời tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả, tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ trợ, đồng thời nâng cao trải nghiệm mua sắm trực tuyến của khách hàng.
+Mục đích dự án: Dự án được xây dựng dưới yêu cầu của công ty thương mại điện tử E-Com Global với mục đích nhằm tự động hóa hoạt động chăm sóc khách hàng, giảm tải cho bộ phận CSKH, trả lời tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả, tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ trợ, đồng thời nâng cao trải nghiệm mua sắm trực tuyến của khách hàng.
 
 Nhà tài trợ: Công ty E-Com Global
 
-> Khách hàng: Công ty E-Com Global
+Khách hàng: Công ty E-Com Global
 
-Đơn vị thực hiện: Nhóm sinh viên (Bùi Đức Sang, Lê Đức Mạnh, Phạm Thị
-Ngọc, Nguyễn Thị Thúy Nga, Đỗ Anh Đức)
+Đơn vị thực hiện: Nhóm sinh viên (Bùi Đức Sang, Lê Đức Mạnh, Phạm Thị Ngọc, Nguyễn Thị Thúy Nga, Đỗ Anh Đức)
 
 Thời gian thực hiện: 8 tuần (dự kiến từ ngày 01/01/2026 -- 30/03/2026)
 
 **1.2. Mô tả dự án**
 
-Công ty thương mại điện tử \"E-Com Global\" đang đối mặt với tình trạng
-quá tải ở bộ phận chăm sóc khách hàng. Nhóm sinh viên được giao nhiệm vụ
-quản lý dự án tích hợp một chatbot AI lên website, có khả năng trả lời
-tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả,
-tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ
-trợ.
+Công ty thương mại điện tử \"E-Com Global\" đang đối mặt với tình trạng quá tải ở bộ phận chăm sóc khách hàng. Nhóm sinh viên được giao nhiệm vụ quản lý dự án tích hợp một chatbot AI lên website, có khả năng trả lời tự động các câu hỏi thường gặp (FAQs) về sản phẩm, chính sách đổi trả, tình trạng đơn hàng và chuyển tiếp các yêu cầu phức tạp đến nhân viên hỗ trợ.
 
 **1.3. Tài nguyên dự án**
 
 Nhà tài trợ là khách hàng cung cấp toàn bộ chi phí thực hiện dự án.
 
-Khách hàng cung cấp dữ liệu lịch sử chat và email, yêu cầu nghiệp vụ,
-yêu cầu sửa đổi chức năng dự án.
+Khách hàng cung cấp dữ liệu lịch sử chat và email, yêu cầu nghiệp vụ, yêu cầu sửa đổi chức năng dự án.
 
 Trang thiết bị, cơ sở vật chất, không gian làm việc cho nhân viên.
 
@@ -43,8 +36,7 @@ Công ty E-Com Global
 
 **1.4.2. Khách hàng**
 
-Công ty E-Com Global (đại diện: Ban Giám đốc, Trưởng phòng CSKH, Trưởng
-phòng IT)
+Công ty E-Com Global (đại diện: Ban Giám đốc, Trưởng phòng CSKH, Trưởng phòng IT)
 
 **1.4.3. Các bên liên quan khác**
 
@@ -90,7 +82,7 @@ Nhà cung cấp công nghệ: Google (Dialogflow CX), nhà cung cấp hosting
 
 Ngôn ngữ lập trình Java, HTML5, CSS3, Jquery/JS, Bootstrap.
 
-> Phân tích thiết kế hệ thống: Visual Paradigm 16.04.
+Phân tích thiết kế hệ thống: Visual Paradigm 16.04.
 
 Thiết kế đồ họa: Photoshop CC 2018, AI CC 2018.
 
@@ -112,17 +104,13 @@ Nền tảng AI: Google Dialogflow CX.
 
 [Danh sách công việc]{.underline}
 
-5.1.1. Gặp và trao đổi với khách hàng E-Com Global để thu thập yêu cầu
-về hệ thống chatbot SupportBot.
+5.1.1. Gặp và trao đổi với khách hàng E-Com Global để thu thập yêu cầu về hệ thống chatbot SupportBot.
 
-5.1.2. Tổng hợp và xây dựng báo cáo từ dữ liệu thu thập (lịch sử chat,
-email, FAQs, yêu cầu nghiệp vụ).
+5.1.2. Tổng hợp và xây dựng báo cáo từ dữ liệu thu thập (lịch sử chat, email, FAQs, yêu cầu nghiệp vụ).
 
-5.1.3. Phân tích các loại câu hỏi thường gặp nhằm xác định các kịch bản
-hội thoại chính cho chatbot.
+5.1.3. Phân tích các loại câu hỏi thường gặp nhằm xác định các kịch bản hội thoại chính cho chatbot.
 
-5.1.4. Nghiên cứu và đề xuất nền tảng phát triển chatbot, lựa chọn
-Dialogflow CX.
+5.1.4. Nghiên cứu và đề xuất nền tảng phát triển chatbot, lựa chọn Dialogflow CX.
 
 1.5.2. Phân tích yêu cầu
 
@@ -136,17 +124,13 @@ Người tham gia đóng góp Phạm Thị Ngọc
 
 [Danh sách công việc]{.underline}
 
-5.2.1. Phân tích yêu cầu nghiệp vụ (FAQs, tra cứu đơn hàng, thông tin
-sản phẩm) và yêu cầu hệ thống (tích hợp API, lưu lịch sử hội thoại).
+5.2.1. Phân tích yêu cầu nghiệp vụ (FAQs, tra cứu đơn hàng, thông tin sản phẩm) và yêu cầu hệ thống (tích hợp API, lưu lịch sử hội thoại).
 
-5.2.2. Phân rã yêu cầu thành các chức năng chatbot (intent, entity, kịch
-bản hội thoại).
+5.2.2. Phân rã yêu cầu thành các chức năng chatbot (intent, entity, kịch bản hội thoại).
 
-5.2.3. Xây dựng kiến trúc hệ thống chatbot: Chat Widget → Dialogflow →
-Webhook → Database → API hệ thống.
+5.2.3. Xây dựng kiến trúc hệ thống chatbot: Chat Widget → Dialogflow → Webhook → Database → API hệ thống.
 
-5.2.4. Lập kế hoạch tổng quan dự án theo phương pháp Agile/Scrum (chia
-thành các Sprint).
+5.2.4. Lập kế hoạch tổng quan dự án theo phương pháp Agile/Scrum (chia thành các Sprint).
 
 5.2.5. Xây dựng WBS chi tiết cho toàn bộ dự án.
 
@@ -164,16 +148,13 @@ Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
 5.3.1. Thiết kế kiến trúc tổng thể hệ thống chatbot.
 
-6.3.2. Thiết kế chi tiết luồng hội thoại cho từng kịch bản (FAQs, tra
-cứu đơn hàng, chuyển nhân viên).
+6.3.2. Thiết kế chi tiết luồng hội thoại cho từng kịch bản (FAQs, tra cứu đơn hàng, chuyển nhân viên).
 
 5.3.3. Xây dựng sơ đồ UML (use case, lớp, sequence).
 
-5.3.4. Thiết kế cơ sở dữ liệu (lưu lịch sử chat, người dùng, đơn hàng,
-FAQs).
+5.3.4. Thiết kế cơ sở dữ liệu (lưu lịch sử chat, người dùng, đơn hàng, FAQs).
 
-5.3.5. Thiết kế giao diện: Giao diện chatbot (chat widget), Dashboard
-quản trị cho nhân viên CSKH
+5.3.5. Thiết kế giao diện: Giao diện chatbot (chat widget), Dashboard quản trị cho nhân viên CSKH
 
 1.5.4. Xây dựng hệ thống Chatbot
 
@@ -193,8 +174,7 @@ Người tham gia đóng góp Đỗ Anh Đức
 
 5.4.3. Thống nhất yêu cầu và giao diện với khách hàng E-Com Global.
 
-5.4.4. Phát triển chatbot: Xây dựng intent, entity; Huấn luyện dữ liệu;
-Tích hợp webhook gọi API tra cứu đơn hàng
+5.4.4. Phát triển chatbot: Xây dựng intent, entity; Huấn luyện dữ liệu; Tích hợp webhook gọi API tra cứu đơn hàng
 
 5.4.5. Triển khai theo phương pháp Agile/Scrum với các Sprint:
 
