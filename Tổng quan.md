@@ -62,7 +62,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 **1.5. Cấu trúc phân rã công việc (WBS)**
 
-![](./Board/B/Bảng1.5.png)
+![](./Board/B/Bảng 1.5.png)
 
 **1.6. Kế hoạch tổng quan của dự án**
 
