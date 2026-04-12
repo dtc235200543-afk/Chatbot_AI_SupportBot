@@ -25,20 +25,12 @@ một số khách hàng vẫn thích gọi điện thoại thay vì sử dụng 
 
 ## 8.2. Phân tích chênh lệch chi phí
 
-  -------------------------------------------------------------------------
-  Hạng mục   Dự kiến    Thực tế    Chênh lệch  Nguyên nhân
-  ---------- ---------- ---------- ----------- ----------------------------
-  Hệ thống   11 triệu   13 triệu   +2 triệu    Tăng dung lượng VPS do lưu
-                                               lượng test cao
-
-  Vận hành   33.4 triệu 31 triệu   -2.4 triệu  Tiết kiệm điện, internet
-
-  Nhân công  110 triệu  124.2      +14.2 triệu Kéo dài 0.5 tuần + phát sinh
-                        triệu                  ngoài giờ
-
-  **Tổng**   **154.4    **168.2    **+13.8     **Vượt 8.9%**
-             triệu**    triệu**    triệu**     
-  -------------------------------------------------------------------------
+|  Hạng mục |   Dự kiến |   Thực tế  |  Chênh lệch | Nguyên nhân |
+ | ---------- | ---------- | ---------- | ----------- | ---------------------------- |
+ | Hệ thống |	11 triệu	| 13 triệu |	+2 triệu |	Tăng dung lượng VPS do lưu lượng test cao |
+| Vận hành |	33.4 triệu |	31 triệu |	-2.4 triệu |	Tiết kiệm điện, internet |
+| Nhân công |	110 triệu |	124.2 triệu |	+14.2 triệu |	Kéo dài 0.5 tuần + phát sinh ngoài giờ |
+| Tổng |	154.4 triệu |	168.2 triệu |	+13.8 triệu |	Vượt 8.9% |
 
   : **Bảng 7: So sánh chi phí dự kiến và thực tế**
 
