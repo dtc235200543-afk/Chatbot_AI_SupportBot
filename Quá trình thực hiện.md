@@ -5,26 +5,6 @@
 Dự án được thực hiện trong 10.5 tuần, chậm hơn kế hoạch 0.5 tuần. Dưới
 đây là so sánh tiến độ giữa kế hoạch và thực tế cho từng Sprint.
 
-  ---------------------------------------------------------------------------
-  Sprint     Kế hoạch   Thực tế   Chênh lệch   Nguyên nhân
-  ---------- ---------- --------- ------------ ------------------------------
-  Sprint 1   14 ngày    16 ngày   +2 ngày      Dữ liệu FAQ bị nhiễm, phải làm
-                                               sạch
-
-  Sprint 2   14 ngày    15 ngày   +1 ngày      API đơn hàng thay đổi endpoint
-
-  Sprint 3   14 ngày    14 ngày   0            Đúng tiến độ
-
-  Sprint 4   14 ngày    16 ngày   +2 ngày      API ticket thiếu tài liệu
-
-  Sprint 5   14 ngày    12 ngày   -2 ngày      Cắt bỏ tính năng phụ, tăng tốc
-
-  **Tổng**   **70       **73      **+3 ngày**  **(chậm 0.5 tuần)**
-             ngày**     ngày**                 
-  ---------------------------------------------------------------------------
-
-  : **Bảng 3: So sánh tiến độ kế hoạch và thực tế**
-
 **Nhận xét:** Sprint 1 và Sprint 4 chậm nhất do các vấn đề liên quan đến
 dữ liệu và API bên thứ ba. Sprint 5 được đẩy nhanh bằng cách cắt bỏ tính
 năng gợi ý sản phẩm (US-08), giúp thu hẹp khoảng cách tiến độ.
@@ -44,28 +24,8 @@ Công thức:
 >
 > **Trong đó:** CPI \> 1: tiết kiệm chi phí, CPI \< 1: vượt chi phí.
 
-  -------------------------------------------------------------------
-  Sprint      SPI        CPI        Nhận xét
-  ----------- ---------- ---------- ---------------------------------
-  Sprint 1    0.96       1.02       Hơi chậm, chi phí ổn
-
-  Sprint 2    0.93       0.97       Chậm nhất, chi phí hơi vượt
-
-  Sprint 3    1.02       1.05       Vượt tiến độ, tiết kiệm chi phí
-
-  Sprint 4    0.95       0.95       Chậm, chi phí vượt
-
-  Sprint 5    1.00       1.00       Đúng tiến độ, đúng chi phí
-
-  **Trung     **0.97**   **1.00**   Hơi chậm, chi phí đúng bằng kế
-  bình**                            hoạch
-  -------------------------------------------------------------------
-
-  : **Bảng 4: Biến động SPI và CPI theo Sprint**
-
-![**Hình 7: Biến động SPI và CPI theo
-tuần**](media/image1.png){width="5.7659722222222225in"
-height="3.5243055555555554in"}
+![](./images/Hình7.png)
+**Hình 7: Biến động SPI và CPI theo tuần**
 
 **Nhận xét:** Sprint 2 có SPI thấp nhất (0.93) do sự cố API đơn hàng.
 Sprint 4 có CPI thấp nhất (0.95) do phát sinh chi phí làm việc với đối
@@ -98,27 +58,6 @@ tài liệu hướng dẫn và thiếu quyền truy cập. Phải mất 3 ngày 
 bên đối tác để có được tài liệu và quyền truy cập. Để bù tiến độ, nhóm
 quyết định cắt bỏ tính năng \"gợi ý sản phẩm tương tự\" (US-08) - một
 tính năng phụ không quan trọng.
-
-## 7.4. Quyết định quản lý quan trọng
-
-  ------------------------------------------------------------------------
-  Thời     Quyết định                       Tác động
-  điểm                                      
-  -------- -------------------------------- ------------------------------
-  Tuần 2   Kéo dài Sprint 1 thêm 2 ngày để  Độ chính xác tăng từ 72% lên
-           làm sạch dữ liệu                 91%, nhưng chậm tiến độ
-
-  Tuần 5   Áp dụng webhook versioning để    Giảm thời gian khắc phục từ
-           ứng phó API thay đổi             3-4 ngày xuống 4 giờ
-
-  Tuần 8   Cắt bỏ tính năng gợi ý sản phẩm  Giúp Sprint 5 tăng tốc, thu
-           (US-08)                          hẹp khoảng cách tiến độ
-
-  Tuần 10  Không sử dụng hết chi phí dự     Tiết kiệm được 4 triệu, bù vào
-           phòng                            các khoản vượt khác
-  ------------------------------------------------------------------------
-
-  : **Bảng 5: Các quyết định quản lý và tác động**
 
 ## 7.5. Xử lý thay đổi
 
