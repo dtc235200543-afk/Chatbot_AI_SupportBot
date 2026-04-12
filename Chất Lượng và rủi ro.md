@@ -88,27 +88,17 @@ Về tài chính và nhân sự, chi phí Dialogflow có thể vượt ngân sá
 Nhân sự nghỉ ốm (R06) cũng là rủi ro cần tính đến. Cuối cùng, rủi ro bảo
 mật dữ liệu khách hàng (R08) luôn hiện hữu.
 
-  ----------------------------------------------------------------------
-  ID    Rủi ro                        Loại          Điểm số   Mức độ
-  ----- ----------------------------- ------------- --------- ----------
-  R01   Dữ liệu huấn luyện không đủ   Kỹ thuật      20        Cao
-        tốt                                                   
+  | ID   | Rủi ro      |                  Loại  |        Điểm số  | Mức độ |
+  | ----- | ----------------------------- | ------------- | --------- | ---------- |
+  | R01 | Dữ liệu huấn luyện không đủ tốt | Kỹ thuật | 20 | Cao |
+| R02 | Chatbot trả lời sai chính sách | Kinh doanh | 15 | Cao |
+| R03 | API đơn hàng thay đổi | Kĩ thuật | 16 | Cao |
+| R04 | Người dùng không hài lòng | Trải nghiệm | 16 | Cao |
+| R05 | Chi phí vượt ngân sách | Tài chính | 12 | Trung bình |
+| R06 |	Nhân sự nghỉ ốm |	Nhân sự |	6 |	Thấp |
+| R07 |	Tích hợp API ticket thất bại |	Kỹ thuật |	16 |	Cao |
+| R08 |	Bảo mật dữ liệu |	Bảo mật |	12 |	Trung bình |
 
-  R02   Chatbot trả lời sai chính     Kinh doanh    15        Cao
-        sách                                                  
-
-  R03   API đơn hàng thay đổi         Kỹ thuật      16        Cao
-
-  R04   Người dùng không hài lòng     Trải nghiệm   16        Cao
-
-  R05   Chi phí vượt ngân sách        Tài chính     12        Trung bình
-
-  R06   Nhân sự nghỉ ốm               Nhân sự       6         Thấp
-
-  R07   Tích hợp API ticket thất bại  Kỹ thuật      16        Cao
-
-  R08   Bảo mật dữ liệu               Bảo mật       12        Trung bình
-  ----------------------------------------------------------------------
 
   : **Bảng 1: Danh sách rủi ro và mức độ ưu tiên**
 
