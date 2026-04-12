@@ -27,6 +27,11 @@ Mục tiêu độ chính xác 85% là hoàn toàn khả thi dựa trên các ngh
   |--------------|-------------|------------------------|---------------- |---------------
  | **Unit Test** |  Kiểm tra từng Intent/Entity hoạt động đúng   |  Trong khi phát triển |  Kỹ sư AI  |  Không lỗi cú pháp, Intent kích hoạt đúng |
  |**Integration Test** |  Kiểm tra webhook kết nối được với API |   Cuối mỗi Sprint |  Tester |     Gọi API thành công, xử lý  đúng response |
+ |**Accuracy Test** | Đo độ chính xác của chatbot | Cuối mỗi Sprint | Tester | Độ chính xác ≥ 85% |
+ | **UAT (User Test)** | Kiểm tra bởi người dùng thực tế | Cuối Sprint 4 | 5 nhân viên CSKH | Tỷ lệ hài lòng ≥ 80% | 
+ | **Load Test** | Kiểm tra khả năng chịu tải | Sprint 5 | Tester | Xử lý 500 người dùng đồng thời | 
+|**Regression Test** | Đảm bảo tính năng cũ không bị ảnh hưởng | Trước mỗi release | Tester | 100% tính năng cũ hoạt động bình thường | 
+
   **Accuracy      Đo độ chính xác của Cuối mỗi    Tester      Độ chính xác ≥
   Test**          chatbot             Sprint                  85%
 
