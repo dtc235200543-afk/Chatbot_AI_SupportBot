@@ -9,7 +9,7 @@ chất lượng đều đạt hoặc vượt mục tiêu.
  | Mục tiêu       |       Kế hoạch  |  Thực tế  |   Kết luận |
  | --------------------- | ----------- | ----------- | ----------------------- |
   | Thời gian |	10 tuần |	10.5 tuần |	Chậm 0.5 tuần |
-| Chi phí |	154.4 triệu	168.2 triệu	Vượt 8.9% |
+| Chi phí |	154.4 triệu	| 168.2 triệu |	Vượt 8.9% |
 | Độ chính xác |	≥ 85% |	87.3%	Đạt |
 | Tỷ lệ hiểu sai |	< 15%	 |  12.7% |	Đạt |
 | Thời gian phản hồi | 	< 5 giây |	3.2 giây |	Đạt |
