@@ -128,16 +128,6 @@ trải nghiệm mượt mà. CSAT (≥4.0/5) đo sự hài lòng của khách h�
 chuyển tiếp (\<30%) cho biết bot xử lý được bao nhiêu. Chi phí mỗi hội
 thoại (\<1.000 VND) đảm bảo hiệu quả kinh tế.
 
-  | KPI           |             Công thức            |          Mục tiêu |
- | -------------------------- | ------------------------------ | -------------|
-  | Tỷ lệ giải quyết tự động |	Bot tự xử lý / Tổng số |	≥ 70% |
-| Độ chính xác |	Số đúng / Tổng số |	≥ 85% |
-| Tỷ lệ hiểu sai |	Fallback / Tổng số |	< 15% |
-| Thời gian phản hồi TB |	Tổng thời gian / Số câu |	< 5 giây |
-| CSAT |	Trung bình điểm đánh giá |	≥ 4.0/5 |
-
-   **Bảng 2: Các KPI của dự án**
-
 ## 5.5. Nhận xét chung
 
 Kế hoạch quản lý chất lượng và rủi ro của dự án được xây dựng tương đối
