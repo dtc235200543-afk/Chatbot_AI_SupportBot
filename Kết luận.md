@@ -41,23 +41,6 @@ lượng test cao hơn dự kiến.
 
 ## 8.3. Đánh giá từ các bên liên quan
 
-  ------------------------------------------------------------------------
-  Bên liên quan      Kỳ vọng                     Mức độ đáp ứng
-  ------------------ --------------------------- -------------------------
-  Nhà tài trợ (Ban   ROI trong 6 tháng, giảm chi Đạt (chi phí CSKH giảm
-  Giám đốc)          phí CSKH                    40% sau 2 tháng)
-
-  Khách hàng (Phòng  Bot trả lời chính xác, giảm Rất hài lòng (giảm 67%
-  CSKH)              tải                         câu hỏi đơn giản)
-
-  Đội dự án          Hoàn thành đúng hạn, tích   Hài lòng (dù chậm 0.5
-                     lũy kinh nghiệm             tuần)
-
-  Người dùng cuối    Được hỗ trợ nhanh chóng     CSAT 4.2/5
-  ------------------------------------------------------------------------
-
-  : **Bảng 8: Đánh giá từ góc nhìn các bên**
-
 Phòng CSKH đánh giá rất cao vì bot đã giảm được 67% câu hỏi đơn giản,
 giúp nhân viên tập trung vào các yêu cầu phức tạp. Ban Giám đốc hài lòng
 với hiệu quả giảm chi phí, nhưng đề nghị cải thiện thời gian triển khai
@@ -80,57 +63,7 @@ giờ. Sprint 2 chỉ chậm 1 ngày thay vì 3-4 ngày.
 làm việc với đối tác. Nhóm quyết định cắt bỏ tính năng gợi ý sản phẩm để
 bù tiến độ.
 
-### 8.4.2. Phân tích SPI và CPI
-
-  -------------------------------------------------------------------
-  Sprint   SPI (Tiến độ)  CPI (Chi phí)  Nhận xét
-  -------- -------------- -------------- ----------------------------
-  Sprint 1 0.96           1.02           Hơi chậm do làm sạch dữ liệu
-
-  Sprint 2 0.93           0.97           Chậm nhất do sự cố API
-
-  Sprint 3 1.02           1.05           Bắt kịp tiến độ
-
-  Sprint 4 0.95           0.95           Chậm do API ticket, chi phí
-                                         tăng
-
-  Sprint 5 1.00           1.00           Đúng tiến độ, đúng chi phí
-  -------------------------------------------------------------------
-
-  : **Bảng 9: Biến động SPI/CPI theo Sprint**
-
-SPI thấp nhất ở Sprint 2 (0.93) do sự cố API đơn hàng. CPI thấp nhất ở
-Sprint 4 (0.95) do phát sinh chi phí làm việc với đối tác. Nhờ cắt bỏ
-tính năng phụ ở Sprint 5, dự án kịp \"gỡ lại\" một phần tiến độ.
-
-## 8.5. Bài học kinh nghiệm
-
-  -----------------------------------------------------------------------
-  Sự kiện            Bài học                  Hành động cho dự án sau
-  ------------------ ------------------------ ---------------------------
-  Dữ liệu FAQ bị     Cần kiểm tra dữ liệu     Thêm \"Sprint 0\" (1 tuần)
-  nhiễm              trước khi huấn luyện     chỉ để làm sạch dữ liệu
-
-  API đơn hàng thay  API bên thứ ba rất dễ    Áp dụng contract testing,
-  đổi                thay đổi                 kiểm tra API tự động mỗi
-                                              ngày
-
-  API ticket thiếu   Cần xác nhận sự sẵn sàng Lập checklist kiểm tra API
-  tài liệu           của API trước Sprint     trước khi bắt đầu Sprint
-
-  Ước lượng thời     Task tích hợp API cần    Nhân hệ số 1.5 cho các task
-  gian thiếu chính   thêm thời gian dự phòng  liên quan đến API
-  xác                                         
-
-  Phải cắt bỏ tính   Cần ưu tiên chức năng    Phân loại Must have / Nice
-  năng               cốt lõi từ đầu           to have rõ ràng
-  -----------------------------------------------------------------------
-
-  : **Bảng 10: Bài học và hành động cải tiến**
-
-> 
-
-## 8.6. Đề xuất cải tiến quy trình
+## 8.5. Đề xuất cải tiến quy trình
 
 Từ những bài học trên, nhóm đề xuất 4 cải tiến cho các dự án tương lai:
 
@@ -152,27 +85,11 @@ Từ những bài học trên, nhóm đề xuất 4 cải tiến cho các dự �
   nếu còn thời gian và ngân sách. Trong dự án này, tính năng \"gợi ý sản
   phẩm\" là Nice to have và đã bị cắt bỏ đúng lúc.
 
-## 8.7. Tổng kết
+## 8.6. Tổng kết
 
 Dự án SupportBot đạt được hầu hết các mục tiêu chất lượng, với độ chính
 xác 87.3% và điểm CSAT 4.2/5. Tuy nhiên, dự án chậm 0.5 tuần và vượt
 ngân sách 8.9% (13.8 triệu) do các sự cố liên quan đến API bên thứ ba.
-
-  -----------------------------------------------------------------------
-  Tiêu chí                 Đánh giá
-  ------------------------ ----------------------------------------------
-  Chất lượng sản phẩm      Tốt (87.3% accuracy)
-
-  Thời gian                Trung bình (chậm 0.5 tuần)
-
-  Chi phí                  Trung bình (vượt 8.9%)
-
-  Hài lòng khách hàng      Tốt (CSAT 4.2)
-
-  Bài học rút ra           Nhiều giá trị, có thể áp dụng cho dự án sau
-  -----------------------------------------------------------------------
-
-  : **Bảng 11: Tổng kết đánh giá dự án**
 
 Bài học lớn nhất là cần kiểm tra kỹ dữ liệu và API trước khi bắt đầu
 phát triển. Các đề xuất cải tiến như Sprint 0, contract testing, và
