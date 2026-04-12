@@ -86,11 +86,11 @@ Nền tảng AI: Google Dialogflow CX.
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thực hiện Lê Đức Mạnh, Nguyễn Thị Thúy Nga, Đỗ Anh Đức
+- Người thực hiện Lê Đức Mạnh, Nguyễn Thị Thúy Nga, Đỗ Anh Đức
 
-Người tham gia đóng góp Phạm Thị Ngọc
+- Người tham gia đóng góp Phạm Thị Ngọc
 
 **Danh sách công việc**
 
@@ -108,11 +108,11 @@ Người tham gia đóng góp Phạm Thị Ngọc
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
+- Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
 
-Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
+- Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
 **Danh sách công việc**
 
@@ -130,11 +130,11 @@ Người tham gia đóng góp Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thực hiện Lê Đức Mạnh, Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
+- Người thực hiện Lê Đức Mạnh, Phạm Thị Ngọc, Nguyễn Thị Thúy Nga
 
-Người tham gia đóng góp Đỗ Anh Đức
+- Người tham gia đóng góp Đỗ Anh Đức
 
 **Danh sách công việc**
 
@@ -160,11 +160,11 @@ Sprint 4: Chuyển tiếp nhân viên & tối ưu hệ thống
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thực hiện Nguyễn Thị Thúy Nga, Lê Đức Mạnh
+- Người thực hiện Nguyễn Thị Thúy Nga, Lê Đức Mạnh
 
-Người tham gia đóng góp Phạm Thị Ngọc
+- Người tham gia đóng góp Phạm Thị Ngọc
 
 **Danh sách công việc**
 5.5.1. Xây dựng test case cho từng chức năng chatbot.
@@ -183,11 +183,11 @@ Thời gian phản hồi
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
+- Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức
 
-Người tham gia đóng góp Nguyễn Thị Thúy Nga
+- Người tham gia đóng góp Nguyễn Thị Thúy Nga
 
 **Danh sách công việc**
 
@@ -207,11 +207,11 @@ Chat → Dialogflow → Webhook → Database → API
 
 **Vai trò Người đảm nhận**
 
-Người xét duyệt Bùi Đức Sang
+- Người xét duyệt Bùi Đức Sang
 
-Người thẩm định Bùi Đức Sang, Phạm Thị Ngọc
+- Người thẩm định Bùi Đức Sang, Phạm Thị Ngọc
 
-Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức, Nguyễn Thị Thúy Nga
+- Người thực hiện Lê Đức Mạnh, Đỗ Anh Đức, Nguyễn Thị Thúy Nga
 
 **Danh sách công việc**
 
