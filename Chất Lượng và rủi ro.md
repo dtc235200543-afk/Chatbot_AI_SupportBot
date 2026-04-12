@@ -51,16 +51,9 @@ ngày -- giúp đảm bảo sản phẩm đáp ứng đúng nhu cầu thực t�
 
   | Bước |    Hành động của người dùng  |   Phản hồi mong đợi từ chatbot    |   Kết quả |                                                            
  | ------ | ----------------------- | ---------------------------------- | ------- |
-  1      User nhập: \"Kiểm tra   Bot hỏi: \"Vui lòng cung cấp số    Pass
-         đơn hàng #99999\"       điện thoại\"                       
-
-  2      User nhập:              API trả về không tìm thấy          Pass
-         \"0987654321\"                                             
-
-  3      Bot phản hồi            \"Rất tiếc, không tìm thấy đơn     Pass
-                                 hàng #99999 với số điện thoại này. 
-                                 Vui lòng kiểm tra lại.\"           
-  -------------------------------------------------------------------------
+ | 1 |     User nhập: \"Kiểm tra đơn hàng #99999\" |    Bot hỏi: \"Vui lòng cung cấp số  điện thoại\"  |   Pass |                      
+ | 2 |     User nhập: \"0987654321\"    |        API trả về không tìm thấy    |      Pass
+ | 3 |    Bot phản hồi      |      \"Rất tiếc, không tìm thấy đơn hàng #99999 với số điện thoại này. Vui lòng kiểm tra lại.\"      |        Pass|
 
 **Test Case TC-03: Kiểm tra xử lý lỗi API**
 
