@@ -24,8 +24,8 @@ Mục tiêu độ chính xác 85% là hoàn toàn khả thi dựa trên các ngh
 ### 5.1.2. Các loại hình kiểm thử:
 
   |Loại kiểm thử |  Mục đích   |   Thời điểm thực hiện  | Người thực hiện | Tiêu chí đạt
-| ---------------|-------------------|-----------|----------- |---------------
-  **Unit Test**   Kiểm tra từng       Trong khi   Kỹ sư AI    Không lỗi cú
+  |--------------|-------------|------------------------|---------------- |---------------
+ | **Unit Test** |  Kiểm tra từng       Trong khi   Kỹ sư AI    Không lỗi cú
                   Intent/Entity hoạt  phát triển              pháp, Intent
                   động đúng                                   kích hoạt đúng
 
