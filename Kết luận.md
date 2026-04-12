@@ -6,24 +6,16 @@ Dự án kết thúc sau 10.5 tuần (chậm 0.5 tuần), chi phí thực tế
 168.200.000 VND (vượt 8.9% so với dự kiến 154.400.000 VND). Các chỉ số
 chất lượng đều đạt hoặc vượt mục tiêu.
 
-  ---------------------------------------------------------------------
-  Mục tiêu              Kế hoạch    Thực tế     Kết luận
-  --------------------- ----------- ----------- -----------------------
-  Thời gian             10 tuần     10.5 tuần   Chậm 0.5 tuần
+ | Mục tiêu       |       Kế hoạch  |  Thực tế  |   Kết luận |
+ | --------------------- | ----------- | ----------- | ----------------------- |
+  | Thời gian |	10 tuần |	10.5 tuần |	Chậm 0.5 tuần |
+| Chi phí |	154.4 triệu	168.2 triệu	Vượt 8.9% |
+| Độ chính xác |	≥ 85% |	87.3%	Đạt |
+| Tỷ lệ hiểu sai |	< 15%	 |  12.7% |	Đạt |
+| Thời gian phản hồi | 	< 5 giây |	3.2 giây |	Đạt |
+| CSAT |	≥ 4.0 |	4.2 |	Đạt |
+| Tỷ lệ giải quyết tự động |	≥ 70% |	67% |	Chưa đạt (95.7% mục tiêu) |
 
-  Chi phí               154.4 triệu 168.2 triệu Vượt 8.9%
-
-  Độ chính xác          ≥ 85%       87.3%       Đạt
-
-  Tỷ lệ hiểu sai        \< 15%      12.7%       Đạt
-
-  Thời gian phản hồi    \< 5 giây   3.2 giây    Đạt
-
-  CSAT                  ≥ 4.0       4.2         Đạt
-
-  Tỷ lệ giải quyết tự   ≥ 70%       67%         Chưa đạt (95.7% mục
-  động                                          tiêu)
-  ---------------------------------------------------------------------
 
   : **Bảng 6: So sánh mục tiêu và kết quả thực tế**
 
