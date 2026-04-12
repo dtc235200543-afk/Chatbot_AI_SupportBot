@@ -41,14 +41,10 @@ ngày -- giúp đảm bảo sản phẩm đáp ứng đúng nhu cầu thực t�
 
 **Test Case TC-01: Kiểm tra tra cứu đơn hàng thành công**
 
-| Bước | Hành động của người dùng | Phản hồi mong đợi từ chatbot | Kết quả | 
-
+| **Bước** | **Hành động của người dùng** | **Phản hồi mong đợi từ chatbot** | **Kết quả** | 
 |------|-------------|------------------------|---------------- |---------------|
-
 | 1 | User nhập: "Kiểm tra đơn hàng #12345" | Bot hỏi: "Vui lòng cung cấp số điện thoại đã đặt hàng" | Pass |
-
 | 2 | User nhập: "0987654321" | Bot gọi API, trả về trạng thái đơn hàng chi tiết |  Pass |
-
 | 3| Bot hiển thị trạng thái | "Đơn hàng #12345 đã được giao thành công lúc 14:30 ngày 10/06/2026" | Pass | 
 
 **Test Case TC-02: Kiểm tra khi không tìm thấy đơn hàng**
