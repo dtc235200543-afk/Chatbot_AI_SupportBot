@@ -15,6 +15,7 @@ thể như sau:
 | 3   | Thời gian phản hồi TB      | < 5 giây | Tổng thời gian / Số câu hỏi                        | Hàng ngày  |
 | 4   | Tỷ lệ chuyển tiếp đúng     | 100%     | (Số yêu cầu chuyển đúng) / (Tổng số yêu cầu)       | Sau Sprint |
 | 5   | Điểm hài lòng (CSAT)       | ≥ 4.0/5  | Trung bình điểm đánh giá sau mỗi chat              | Hàng tuần  |
+
 **Nhận xét:** Các mục tiêu chất lượng được xây dựng dựa trên yêu cầu
 thực tế từ phòng CSKH và khả năng kỹ thuật của nền tảng Dialogflow CX.
 Mục tiêu độ chính xác 85% là hoàn toàn khả thi dựa trên các nghiên cứu
