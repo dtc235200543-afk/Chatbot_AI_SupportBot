@@ -46,7 +46,7 @@ Nhà cung cấp công nghệ: Google (Dialogflow CX), nhà cung cấp hosting
 
 **1.4.4. Thành viên đội dự án**
 
-![](./Board/Bảng/Bảng1.4.png)
+![](./Board/B/Bảng1.4.png)
 
 **1.4.5. Công nghệ sử dụng**
 
@@ -60,9 +60,13 @@ Thiết kế xây dựng CSDL: MySQL.
 
 Nền tảng AI: Google Dialogflow CX.
 
-**1.5. Kế hoạch tổng quan của dự án**
+**1.5. Cấu trúc phân rã công việc (WBS)**
 
-**1.5.1. Khởi tạo dự án**
+![](./Board/B/Bảng1.5.png)
+
+**1.6. Kế hoạch tổng quan của dự án**
+
+**1.6.1. Khởi tạo dự án**
 
 **Vai trò Người đảm nhận**
 
@@ -82,7 +86,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 5.1.4. Nghiên cứu và đề xuất nền tảng phát triển chatbot, lựa chọn Dialogflow CX.
 
-**1.5.2. Phân tích yêu cầu**
+**1.6.2. Phân tích yêu cầu**
 
 **Vai trò Người đảm nhận**
 
@@ -104,7 +108,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 5.2.5. Xây dựng WBS chi tiết cho toàn bộ dự án.
 
-**1.5.3. Thiết kế hệ thống**
+**1.6.3. Thiết kế hệ thống**
 
 **Vai trò Người đảm nhận**
 
@@ -126,7 +130,7 @@ Nền tảng AI: Google Dialogflow CX.
 
 5.3.5. Thiết kế giao diện: Giao diện chatbot (chat widget), Dashboard quản trị cho nhân viên CSKH
 
-**1.5.4. Xây dựng hệ thống Chatbot**
+**1.6.4. Xây dựng hệ thống Chatbot**
 
 **Vai trò Người đảm nhận**
 
@@ -156,7 +160,7 @@ Sprint 3: Thông tin sản phẩm
 
 Sprint 4: Chuyển tiếp nhân viên & tối ưu hệ thống
 
-**1.5.5. Chạy thử hệ thống**
+**1.6.5. Chạy thử hệ thống**
 
 **Vai trò Người đảm nhận**
 
@@ -179,7 +183,7 @@ Thời gian phản hồi
 
 5.5.3. Ghi nhận lỗi và đề xuất phương án cải thiện.
 
-**1.5.6. Kiểm thử hệ thống**
+**1.6.6. Kiểm thử hệ thống**
 
 **Vai trò Người đảm nhận**
 
@@ -203,7 +207,7 @@ Chat → Dialogflow → Webhook → Database → API
 
 5.6.5. Lập báo cáo kiểm thử chi tiết.
 
-**1.5.7. Kết thúc dự án**
+**1.6.7. Kết thúc dự án**
 
 **Vai trò Người đảm nhận**
 
