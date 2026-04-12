@@ -46,6 +46,7 @@ Nhà cung cấp công nghệ: Google (Dialogflow CX), nhà cung cấp hosting
 
 **1.4.4. Thành viên đội dự án**
 
+Bảng1.4.png
 +---------+-------------+-------------+---------------+-------------------+
 | **STT** | **Vai trò** | **Lĩnh      | **Họ tên**    | **Liên hệ**       |
 |         |             | vực**       |               |                   |
